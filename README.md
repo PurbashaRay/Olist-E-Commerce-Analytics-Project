@@ -25,7 +25,7 @@ olist_geolocation_dataset.csv – geographic coordinates by zip code
 
 ---
 
-## **Analysis stratergy:** ## 
+## **Analysis stratergy** ## 
 
 To address the project objectives, the analysis focused on the following areas:
 
