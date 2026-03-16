@@ -25,9 +25,9 @@ olist_geolocation_dataset.csv – geographic coordinates by zip code
 
 ---
 
-## **Project stratergy:** ## 
+## **Analysis stratergy:** ## 
 
-The team decided to focus on the following areas:
+To address the project objectives, the analysis focused on the following areas:
 
 #### **Overall view of marketplace revenue & volume:** ####
 
@@ -59,8 +59,8 @@ Freight value analysis to generate actionable insights for business strategy and
 
 ---
 
-### Tools & Technology:
-Power BI , SQL , Python 
+**Full Project report :**  [Report](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/1372116c6d4214ba242303abfc0a668c864ffa99/Project%20Report.docx) 
 
-### Dashboard & Key Insights:
-[Dashboard](https://app.powerbi.com/groups/92eb5234-d3e9-4473-9640-fc21bdb26511/dashboards/6e212369-0bde-418e-97e1-ab1b67433c51?experience=power-bi)
+**Tools & Technology:** Power BI , SQL , Python 
+
+**Dashboard & Key Insights:**[Dashboard](https://app.powerbi.com/groups/92eb5234-d3e9-4473-9640-fc21bdb26511/dashboards/6e212369-0bde-418e-97e1-ab1b67433c51?experience=power-bi) 
