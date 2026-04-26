@@ -1,1 +1,1 @@
-SQL scripts
+SQL scripts used for seller performance.
