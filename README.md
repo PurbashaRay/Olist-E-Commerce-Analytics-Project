@@ -39,7 +39,7 @@ GMV, CAC, churn, revenue per seller/customer <br> <br>
 
 Customer satisfaction: average review scores compared with customer spending, volume of orders, product category, geographic distribution, seller (identify high quality sellers); review scores over time.
 Where buyers/sellers are located and how location affects sales: bubble map showing seller/buyer distribution with different bubble sizes (avg. spend, avg. review score). <br><br>
-![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/Customer%20%26%20Review.png)
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/5b410057e9161ba960d5d7c7ddbc9ab36f9d2411/images/Customer%20%26%20Review.png)
 
 
  #### **Seller performance:** ####
