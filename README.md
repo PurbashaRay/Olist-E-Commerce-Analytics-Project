@@ -32,30 +32,37 @@ To address the project objectives, the analysis focused on the following areas:
 #### **Overall view of marketplace revenue & volume:** ####
 
 Total GMV, number of orders, average order value, revenue per month.
-GMV, CAC, churn, revenue per seller/customer 
-
-#### **Customer behaviours through payments and cancellations:** ####
-
-Payment Method Analysis e.g. Customer preference and payment behaviour. Payment method usage, average payment value by method . 
-Analyse Order Cancellation & Return Rates by reviewing Cancel/return rates by seller/product/category and customer, potentially looking into payment patterns, extremely high/low order values or cancellation rates. 
+GMV, CAC, churn, revenue per seller/customer <br> <br>
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/Sales%20performance%20analysis.png)
 
 #### **Customer Behaviour and Demand:** ####
 
 Customer satisfaction: average review scores compared with customer spending, volume of orders, product category, geographic distribution, seller (identify high quality sellers); review scores over time.
+Where buyers/sellers are located and how location affects sales: bubble map showing seller/buyer distribution with different bubble sizes (avg. spend, avg. review score). <br><br>
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/Customer%20%26%20Review.png)
 
-Where buyers/sellers are located and how location affects sales: bubble map showing seller/buyer distribution with different bubble sizes (avg. spend, avg. review score).
 
  #### **Seller performance:** ####
 
 Identify high and low performing sellers analysing seller revenue, number of orders and order fulfilment time.
+Analyse delivery and logistics efficiency by studying the delivery time distribution and shipping latency.<br><br>
 
-Analyse delivery and logistics efficiency by studying the delivery time distribution and shipping latency.
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/seller%20performance%20analysis.png)
 
  #### **Product/Product category analysis:** ####
 
 Comprehensive product analysis by evaluating best-selling categories, top-revenue product categories, revenue and volume trends over time.
 
-Freight value analysis to generate actionable insights for business strategy and operational efficiency. 
+Freight value analysis to generate actionable insights for business strategy and operational efficiency. <br><br>
+
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/Product%20category%20analysis.png)
+
+#### **Customer behaviours through payments and cancellations:** ####
+
+Payment Method Analysis e.g. Customer preference and payment behaviour. Payment method usage, average payment value by method . 
+Analyse Order Cancellation & Return Rates by reviewing Cancel/return rates by seller/product/category and customer, potentially looking into payment patterns, extremely high/low order values or cancellation rates. <br><br>
+
+![image](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/blob/896d8584425344351fb3bbcf21903e03c24c431c/images/Payment%20method%20analysis.png)
 
 ---
 
